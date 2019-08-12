@@ -247,7 +247,7 @@ class SignupPDF(APIView):
             Story.append(t)
 
             firma1 = Paragraph("Firma", estilo['Normal1'])
-            firmaCliente = Paragraph("Nombre y sello del usuario " + data['signatures'][1]['name'], estilo['Normal1'])
+            firmaCliente = Paragraph("Nombre completo del usuario " + data['signatures'][1]['name'], estilo['Normal1'])
             idCliente = Paragraph(data['signatures'][1]['id_type'] + " " + data['signatures'][1]['id'], estilo['Normal1'])
             firma2 = Paragraph("Firma", estilo['Normal1'])
             nombreEmpleado = Paragraph("Nombre del funcionario de Ecocapital " + data['signatures'][3]['name'], estilo['Normal1'])

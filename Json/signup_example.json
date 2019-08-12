@@ -1,0 +1,119 @@
+{
+  "registration_date": "2018-12-19",
+  "procedure": "INCORPORACIÓN",
+  "code": "36390",
+  "user_data": {
+    "type": "Privada",
+    "name_headquarters": "PELUQUERIA DEISY YANIRA LOPEZ GALINDO",
+    "name_offfice": "PELUQUERIA DEISY YANIRA LOPEZ GALINDO",
+    "commercial_id": "528628612",
+    "geoinformation": {
+      "address_collection": "CL 39 SUR 68 D 16 ADICIONADO PARA HACER MÁS LARGA LA DIRECCIÓN",
+      "address_correspondence": "CL 39 SUR 68 D 16",
+      "city": "Bogotá, D.C",
+      "district": "KENNEDY #8",
+      "neighborhood": "ALQUERIA LA FRAGUA"
+    },
+    "contact_phones": [
+      {
+        "phone_type": "landline",
+        "phone_number": "4606875"
+      },
+      {
+        "phone_type": "cel",
+        "phone_number": "3105740833"
+      }
+    ],
+    "contacts": [
+      {
+        "name": "CLAUDIA LOPEZ",
+        "id_type": "C.C",
+        "id": "123456",
+        "phone": "3212343742",
+        "email": "correo1@email.com"
+      },
+      {
+        "name": "MARIA GALINDO",
+        "id_type": "C.C",
+        "id": "789456",
+        "phone": "3203393643",
+        "email": "correo2@email.com"
+      }
+    ],
+    "legal_owners": [
+      {
+        "name": "DEISY YANIRA LOPEZ GALINDO",
+        "id_type": "C.C",
+        "id": "52862861",
+        "contact_phones": [
+          {
+            "phone_type": "landline",
+            "phone_number": "4606875"
+          },
+          {
+            "phone_type": "cel",
+            "phone_number": "3105740833"
+          }
+        ],
+        "email": ""
+      },
+      {
+        "name": "DEISY YANIRA LOPEZ GALINDO",
+        "id_type": "C.C",
+        "id": "52862861",
+        "contact_phones": [
+          {
+            "phone_type": "landline",
+            "phone_number": "4606875"
+          },
+          {
+            "phone_type": "cel",
+            "phone_number": "3105740833"
+          }
+        ],
+        "email": "gls_metal@hotmail.com"
+      }
+    ]
+  },
+  "user_type": {
+    "service_type": "Establecimientos abiertos al público",
+    "activity_type": "CENTROS DE ESTETICA",
+    "sub_activity_type": "PELUQUERIAS",
+    "categorization": [
+      {
+        "category_name": "Biosanitario",
+        "category_level": "Micro productor C",
+        "category_capacity": "0.0 - 9",
+        "category_units": "Kg/mes"
+      },
+      {
+        "category_name": "Anatomopatológico",
+        "category_level": "No aplica",
+        "category_capacity": "0 - 0",
+        "category_units": "N/A"
+      },
+      {
+        "category_name": "Cortopunzantes",
+        "category_level": "",
+        "category_capacity": "",
+        "category_units": ""
+      }
+    ]
+  },
+  "comments": "",
+  "signatures": [
+    "client",
+    {
+      "name": "",
+      "id_type": "C.C",
+      "id": ""
+    },
+    "employee",
+    {
+      "name": "",
+      "id_type": "C.C",
+      "id": "",
+      "role": ""
+    }
+  ]
+}
